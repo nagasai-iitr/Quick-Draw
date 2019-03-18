@@ -46,13 +46,5 @@ If you face any problem, kindly raise an issue
 
 
 
-### References:
- 
- - [Google's Quick, Draw](https://quickdraw.withgoogle.com/) 
- - [The Quick, Draw! Dataset](https://github.com/googlecreativelab/quickdraw-dataset)
- - [Quick Draw: the world’s largest doodle dataset](https://towardsdatascience.com/quick-draw-the-worlds-largest-doodle-dataset-823c22ffce6b)
-
-
-
 
 
