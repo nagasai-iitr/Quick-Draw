@@ -1,4 +1,4 @@
-## Quick, Draw [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Emojinator/blob/master/LICENSE.md)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
+## Quick, Draw 
 Can a neural network learn to recognize doodling? [Quick, Draw](https://quickdraw.withgoogle.com/)
 
 ### Code Requirements
@@ -44,10 +44,7 @@ If you face any problem, kindly raise an issue
 3) For altering the model, check `QD_trainer.py`.
 4) For tensorboard visualization, go to the specific log directory and run this command ` tensorboard --logdir=.` You can go to `localhost:6006` for visualizing your loss function and accuracy.
 
-### Mergerd to Google's git repo
-See the pull request [here](https://github.com/googlecreativelab/quickdraw-dataset/pull/25)
 
-<img src="https://github.com/akshaybahadur21/QuickDraw/blob/master/qd.gif">
 
 ### References:
  
